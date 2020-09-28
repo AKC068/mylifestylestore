@@ -1,0 +1,78 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 03-Jul-2020, 4:10:41 am
+    Author     : AYUSH
+*/
+#banner_image{padding-top: 75px;
+padding-bottom: 50px;
+text-align: center;
+color: #f8f8f8;
+background-image: url("imjproj/intro-bg_1.jpg");
+background-size: cover;
+}
+
+.banner_content{position: relative;
+padding-top: 6%;
+padding-bottom: 6%;
+margin-top: 12%;
+margin-bottom: 12%;
+background-color: rgba(0, 0, 0, 0.7);
+max-width: 660px;
+}
+
+.row_style{margin-top: 100px;
+          margin-bottom: 15%;
+}
+.text_styling{font-style: italic;
+             font-size: 12px;
+}
+.link{text-decoration: none;
+     font-weight: bold;
+}
+.gap{margin-top:30px;
+}
+.row_bg{background-color: #ddd;
+}
+.rowstyle{margin-top: 20%;
+          font-size: 17px;
+}
+.red{
+    color: red;
+}
+.green{
+    color: green;
+}
+.img-transition{
+    height: 250px;
+    margin: 0px auto;
+    transition: 0.7s ease-out;
+}
+.img-transition:hover{
+    height: 320px;
+}
+
+footer{padding: 10px 0;
+       background-color: #101010;
+       color:#9d9d9d;
+       bottom: 0;
+       width: 100%;
+       text-align: center;
+}
+.title{
+    font-size: 20px;
+    color: #fff;
+}
+
+.footer_link{
+    color: #9d9d9d;
+    text-decoration: none
+}
+
+.footer_link:hover{
+    color: #fff;
+    text-decoration: none;
+}
